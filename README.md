@@ -1,3 +1,2 @@
-# WARNING
-[WARNING! YOU ARE ACCESSING 8E CONTENT!]
-YOU MUST BE LEVEL 7 OR HIGHER TO SEE THIS CONTENT OR HAVE THE DEV ROLE.
+Where we start moving the bot to python from node.js
+Help us out if you can!
